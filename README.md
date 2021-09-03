@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ray
-- 👀 I’m interested in Machine Learning, Statistics and Computer Vision
+- 👀 I’m interested in Deep Learning, Machine Learning, Statistics and Computer Vision
 - 🌱 I’m currently learning Computer Vision at FEE CTU in Prague
 
 <!---
