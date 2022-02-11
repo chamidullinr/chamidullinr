@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Ray
-- 👀 I’m interested in Deep Learning, Machine Learning, Statistics and Computer Vision
-- 🌱 I’m currently learning Computer Vision at FEE CTU in Prague
+Interested in Deep Learning, Computer Vision, and Natural Language Processing.
 
 <!---
 chamidullinr/chamidullinr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
